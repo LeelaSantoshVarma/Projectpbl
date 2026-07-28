@@ -1,0 +1,88 @@
+# Week 01 – Discrete Mathematics & Logic
+
+## Course Outcome
+**CO1:** Apply discrete mathematics and logical reasoning concepts using Python.
+
+## Session 1 (S1)
+### Topic
+Introduction to Mathematics for Machine Learning
+
+### Concepts Covered
+- Course Overview
+- Importance of Mathematics in Machine Learning
+- Python Installation
+- Anaconda Installation
+- Jupyter Notebook
+- NumPy Basics
+- SymPy Basics
+- GitHub Repository Creation
+
+### Pre-Class Activity
+Install Anaconda and Jupyter Notebook.
+
+### In-Class Activity
+- Verify Python installation
+- Create first Jupyter Notebook
+- Create GitHub Repository
+
+### Deliverable
+Project environment ready.
+
+## Session 2 (S2)
+
+### Topic
+Sets, Set Operations and Cartesian Products
+
+### Concepts Covered
+- Sets
+- Union
+- Intersection
+- Difference
+- Symmetric Difference
+- Cartesian Product
+- Python Set Operations
+
+### Activity
+Implement set operations using Python.
+
+### Deliverable
+Logic Notebook – Set Operations
+
+## Session 3 (S3)
+
+### Topic
+Propositional Logic
+
+### Concepts Covered
+- AND
+- OR
+- NOT
+- XOR
+- Implication
+- Equivalence
+
+### Activity
+Generate Truth Tables using Python.
+
+### Deliverable
+Logic Notebook – Truth Tables
+
+## Weekly Learning Outcomes
+
+By the end of Week 1, students will be able to:
+
+1. Configure the Python development environment.
+2. Use Jupyter Notebook effectively.
+3. Create and manage a GitHub repository.
+4. Perform set operations using Python.
+5. Generate Cartesian products.
+6. Construct truth tables for logical expressions.
+
+
+## Weekly Deliverables
+
+- Python Environment Setup
+- GitHub Repository
+- Logic Notebook
+- Set Operations Program
+- Truth Table Program
