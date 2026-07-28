@@ -1,0 +1,122 @@
+# Week 12 – Numerical Methods and Machine Learning Optimization
+
+## Course Outcome
+**CO6:** Apply optimization techniques, numerical computing tools, and scientific programming to solve machine learning problems and present a complete project portfolio.
+
+---
+
+## Session 34 (S34)
+
+### Topic
+Optimization: SGD, Momentum, Adam, Monte Carlo Methods
+
+### Concepts Covered
+- Introduction to Optimization
+- Gradient-Based Optimization
+- Stochastic Gradient Descent (SGD)
+- Momentum Optimization
+- Adam Optimizer
+- Learning Rate Scheduling
+- Monte Carlo Methods
+- Random Sampling Techniques
+- Applications in Machine Learning
+
+### Pre-Class Activity
+Review Gradient Descent and optimization concepts.
+
+### In-Class Activity
+- Compare SGD, Momentum, and Adam optimizers.
+- Implement optimization algorithms using Python.
+- Apply Monte Carlo simulation to estimation problems.
+- Evaluate optimizer performance on simple machine learning models.
+
+### Deliverable
+Optimization Notebook
+
+---
+
+## Session 35 (S35)
+
+### Topic
+SciPy Optimize & Integrate, GitHub Repository, Documentation
+
+### Concepts Covered
+- SciPy Optimize Module
+- Numerical Optimization using SciPy
+- SciPy Integrate Module
+- Solving Integration Problems
+- Jupyter Notebook Organization
+- GitHub Repository Management
+- README File Preparation
+- Project Documentation Best Practices
+
+### Pre-Class Activity
+Review all completed notebooks and organize project files.
+
+### In-Class Activity
+- Solve optimization and integration problems using SciPy.
+- Finalize all Jupyter notebooks.
+- Create a professional README.md file.
+- Update and organize the GitHub repository.
+- Prepare complete project documentation.
+
+### Deliverable
+Complete Project Documentation
+
+---
+
+## Session 36 (S36)
+
+### Topic
+Final Project Demonstration and Viva
+
+### Concepts Covered
+- Project Presentation Techniques
+- Demonstration of Python Notebooks
+- GitHub Repository Walkthrough
+- Machine Learning Case Study
+- Documentation Review
+- Technical Discussion
+- Viva Preparation
+- Portfolio Evaluation
+
+### Pre-Class Activity
+Review all course modules and rehearse the project presentation.
+
+### In-Class Activity
+- Present six completed Jupyter notebooks.
+- Demonstrate the GitHub repository.
+- Explain the real-world machine learning case study.
+- Answer viva questions on mathematical concepts and Python implementation.
+- Receive project evaluation and feedback.
+
+### Deliverable
+Project Stage 6 – Final Mathematics for Machine Learning Portfolio Submission
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 12, students will be able to:
+
+1. Compare optimization algorithms such as SGD, Momentum, and Adam.
+2. Apply Monte Carlo methods for numerical estimation and simulation.
+3. Use SciPy Optimize and Integrate modules for scientific computing tasks.
+4. Organize and document a professional Python project.
+5. Maintain a well-structured GitHub repository with complete documentation.
+6. Present mathematical models and machine learning implementations confidently.
+7. Demonstrate practical applications of mathematics in machine learning.
+8. Submit a complete Mathematics for Machine Learning project portfolio.
+
+---
+
+## Weekly Deliverables
+
+- Optimization Notebook
+- SGD, Momentum, and Adam Implementation Programs
+- Monte Carlo Simulation Notebook
+- SciPy Optimize and Integrate Programs
+- Complete Jupyter Notebooks
+- Professional README.md File
+- Complete GitHub Repository
+- Project Stage 6 – Final Mathematics for Machine Learning Portfolio Submission
