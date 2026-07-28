@@ -1,0 +1,120 @@
+# Week 06 – Calculus for Machine Learning
+
+## Course Outcome
+**CO3:** Apply calculus concepts to analyze functions, compute derivatives, and optimize machine learning models using Python.
+
+---
+
+## Session 16 (S16)
+
+### Topic
+Limits and Continuity
+
+### Concepts Covered
+- Introduction to Limits
+- Left-Hand and Right-Hand Limits
+- Evaluating Limits
+- Infinite Limits
+- Limits at Infinity
+- Continuity of Functions
+- Types of Discontinuities
+- Graphical Interpretation of Limits and Continuity
+- Visualizing Limits using Python
+
+### Pre-Class Activity
+Review functions, graphs, and basic algebraic expressions.
+
+### In-Class Activity
+- Evaluate limits of mathematical functions.
+- Visualize limits and continuity using Python.
+- Plot continuous and discontinuous functions.
+- Verify continuity at specific points.
+
+### Deliverable
+Calculus Notebook Initialized
+
+---
+
+## Session 17 (S17)
+
+### Topic
+Derivatives: Product Rule, Quotient Rule, Chain Rule
+
+### Concepts Covered
+- Introduction to Derivatives
+- Differentiation Rules
+- Product Rule
+- Quotient Rule
+- Chain Rule
+- Higher-Order Derivatives
+- Applications of Derivatives
+- Symbolic Differentiation using SymPy
+
+### Pre-Class Activity
+Review limits and the concept of the derivative.
+
+### In-Class Activity
+- Differentiate mathematical functions using SymPy.
+- Apply product, quotient, and chain rules.
+- Verify symbolic differentiation results.
+- Plot functions and their derivatives.
+
+### Deliverable
+Derivatives Notebook
+
+---
+
+## Session 18 (S18)
+
+### Topic
+Partial Derivatives and Gradients
+
+### Concepts Covered
+- Multivariable Functions
+- Partial Derivatives
+- Gradient Vector
+- Directional Derivatives
+- Gradient Interpretation
+- Jacobian Matrix (Introduction)
+- Gradient Computation using SymPy
+- Applications in Machine Learning Optimization
+
+### Pre-Class Activity
+Review single-variable derivatives and multivariable functions.
+
+### In-Class Activity
+- Compute partial derivatives using SymPy.
+- Calculate gradients of multivariable functions.
+- Visualize gradient vectors.
+- Apply gradients to simple optimization problems.
+
+### Deliverable
+Gradient Computation Notebook
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 6, students will be able to:
+
+1. Evaluate and interpret limits of mathematical functions.
+2. Analyze the continuity of functions graphically and analytically.
+3. Apply differentiation rules, including product, quotient, and chain rules.
+4. Compute symbolic derivatives using SymPy.
+5. Calculate partial derivatives of multivariable functions.
+6. Compute and interpret gradient vectors.
+7. Visualize calculus concepts using Python libraries.
+8. Build the foundation for optimization techniques used in machine learning.
+
+---
+
+## Weekly Deliverables
+
+- Calculus Notebook
+- Limits and Continuity Visualization
+- Derivatives Notebook
+- SymPy Differentiation Programs
+- Partial Derivatives Notebook
+- Gradient Computation Notebook
+- Python Visualization Programs
+- Calculus Exercises and Solutions
