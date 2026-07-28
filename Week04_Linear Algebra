@@ -1,0 +1,120 @@
+# Week 04 – Linear Algebra for Machine Learning
+
+## Course Outcome
+**CO2:** Apply linear algebra concepts to solve mathematical problems and implement machine learning computations using Python.
+
+---
+
+## Session 10 (S10)
+
+### Topic
+Matrices: Addition, Multiplication, Transpose, Identity Matrix
+
+### Concepts Covered
+- Introduction to Matrices
+- Types of Matrices
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+- Matrix Transpose
+- Identity Matrix
+- Zero Matrix
+- Matrix Operations using NumPy
+
+### Pre-Class Activity
+Review vectors and basic matrix notation.
+
+### In-Class Activity
+- Perform matrix addition and multiplication.
+- Compute matrix transpose.
+- Create identity and zero matrices.
+- Implement matrix operations using NumPy.
+
+### Deliverable
+Matrix Operations Notebook
+
+---
+
+## Session 11 (S11)
+
+### Topic
+Matrix Inverse, Systems of Linear Equations (Ax = b), Gaussian Elimination
+
+### Concepts Covered
+- Matrix Inverse
+- Singular and Non-Singular Matrices
+- Systems of Linear Equations
+- Matrix Representation (Ax = b)
+- Gaussian Elimination
+- Row Operations
+- Solving Linear Systems using NumPy
+- Applications in Machine Learning
+
+### Pre-Class Activity
+Review matrix multiplication and identity matrices.
+
+### In-Class Activity
+- Compute matrix inverses using NumPy.
+- Solve systems of linear equations.
+- Apply Gaussian elimination.
+- Verify solutions using matrix multiplication.
+
+### Deliverable
+Linear Equation Solver
+
+---
+
+## Session 12 (S12)
+
+### Topic
+Determinants and Geometric Interpretation
+
+### Concepts Covered
+- Determinant of a Matrix
+- Properties of Determinants
+- Determinant of 2×2 and 3×3 Matrices
+- Matrix Transformations
+- Area and Volume Interpretation
+- Singular vs Non-Singular Matrices
+- Eigenvalue Connection (Introduction)
+- NumPy Determinant Functions
+
+### Pre-Class Activity
+Review matrix concepts and inverse computation.
+
+### In-Class Activity
+- Compute determinants using NumPy.
+- Visualize geometric transformations.
+- Compare matrices with zero and non-zero determinants.
+- Interpret determinant values in linear transformations.
+
+### Deliverable
+Determinant Visualization
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 4, students will be able to:
+
+1. Perform matrix addition, subtraction, multiplication, and transpose operations.
+2. Create and manipulate identity and zero matrices.
+3. Compute matrix inverses using NumPy.
+4. Solve systems of linear equations using the matrix form (Ax = b).
+5. Apply Gaussian elimination to solve linear systems.
+6. Compute determinants of matrices.
+7. Interpret the geometric meaning of determinants and linear transformations.
+8. Implement matrix-based computations for machine learning applications.
+
+---
+
+## Weekly Deliverables
+
+- Matrix Operations Notebook
+- NumPy Matrix Operations Programs
+- Linear Equation Solver
+- Gaussian Elimination Program
+- Matrix Inverse Calculator
+- Determinant Visualization
+- Geometric Transformation Demonstration
+- Linear Algebra Notebook
