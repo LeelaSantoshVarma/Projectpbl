@@ -1,0 +1,121 @@
+# Week 02 – Discrete Mathematics & Logic
+
+## Course Outcome
+**CO1:** Apply discrete mathematics and logical reasoning concepts using Python.
+
+---
+
+## Session 4 (S4)
+
+### Topic
+Predicate Logic and Quantifiers
+
+### Concepts Covered
+- Predicate Logic
+- Predicates
+- Universal Quantifier (∀)
+- Existential Quantifier (∃)
+- Domain of Discourse
+- Free and Bound Variables
+- Negation of Quantifiers
+- Translating English Statements into Predicate Logic
+
+### Pre-Class Activity
+Read about predicate logic and quantifiers with simple real-world examples.
+
+### In-Class Activity
+- Solve predicate logic problems.
+- Convert English statements into logical predicates.
+- Evaluate quantified logical expressions using Python.
+- Implement basic predicate functions using SymPy.
+
+### Deliverable
+Predicate Logic Notebook
+
+---
+
+## Session 5 (S5)
+
+### Topic
+Truth Tables, Tautologies, and SAT Solver Introduction
+
+### Concepts Covered
+- Truth Tables
+- Tautology
+- Contradiction
+- Contingency
+- Logical Equivalence
+- Validity of Arguments
+- Introduction to SAT Solvers
+- SymPy Logic Module
+
+### Pre-Class Activity
+Revise propositional logic operators and logical equivalences.
+
+### In-Class Activity
+- Generate truth tables using Python.
+- Verify logical expressions.
+- Identify tautologies and contradictions.
+- Explore SAT solver concepts using SymPy.
+
+### Deliverable
+Logic Verification Module
+
+---
+
+## Session 6 (S6)
+
+### Topic
+Relations and Functions
+
+### Concepts Covered
+- Binary Relations
+- Types of Relations
+- Reflexive Relations
+- Symmetric Relations
+- Transitive Relations
+- Equivalence Relations
+- Functions and Mappings
+- One-to-One Functions
+- Onto Functions
+- Bijective Functions
+- Function Composition
+
+### Pre-Class Activity
+Review the concepts of sets and Cartesian products.
+
+### In-Class Activity
+- Implement relations using Python.
+- Create function mappings.
+- Check properties of relations.
+- Verify injective, surjective, and bijective functions.
+
+### Deliverable
+Relations Notebook
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 2, students will be able to:
+
+1. Represent real-world statements using predicate logic.
+2. Apply universal and existential quantifiers correctly.
+3. Verify logical expressions using truth tables.
+4. Identify tautologies, contradictions, and contingencies.
+5. Understand the basic working principle of SAT solvers.
+6. Implement relations and function mappings using Python.
+7. Analyze properties of relations.
+8. Distinguish between injective, surjective, and bijective functions.
+
+---
+
+## Weekly Deliverables
+
+- Predicate Logic Notebook
+- Logic Verification Module
+- Relations Notebook
+- Python Programs for Predicate Logic
+- Truth Table Verification Programs
+- Relation Property Checker
+- Function Mapping Programs
