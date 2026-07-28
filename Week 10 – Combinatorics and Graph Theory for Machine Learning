@@ -1,0 +1,123 @@
+# Week 10 – Combinatorics and Graph Theory for Machine Learning
+
+## Course Outcome
+**CO5:** Apply combinatorial techniques and graph theory concepts to solve computational problems and model real-world networks using Python.
+
+---
+
+## Session 28 (S28)
+
+### Topic
+Counting Principles: Permutations, Combinations, Multinomial
+
+### Concepts Covered
+- Fundamental Principle of Counting
+- Factorial Notation
+- Permutations
+- Circular Permutations
+- Combinations
+- Multinomial Theorem
+- Binomial Coefficients
+- Applications in Machine Learning
+- Python Libraries for Combinatorics (`math`, `itertools`)
+
+### Pre-Class Activity
+Review factorials, permutations, and combinations.
+
+### In-Class Activity
+- Solve counting problems using Python.
+- Implement permutation and combination algorithms.
+- Compute multinomial coefficients.
+- Apply counting principles to practical problems.
+
+### Deliverable
+Combinatorics Notebook
+
+---
+
+## Session 29 (S29)
+
+### Topic
+Pigeonhole Principle, Inclusion-Exclusion, Generating Functions
+
+### Concepts Covered
+- Pigeonhole Principle
+- Generalized Pigeonhole Principle
+- Inclusion-Exclusion Principle
+- Counting Overlapping Sets
+- Introduction to Generating Functions
+- Ordinary Generating Functions
+- Recursive Counting Problems
+- Applications in Algorithm Design
+
+### Pre-Class Activity
+Review counting principles and set operations.
+
+### In-Class Activity
+- Implement combinatorial algorithms.
+- Solve counting problems using the Pigeonhole Principle.
+- Apply the Inclusion-Exclusion Principle.
+- Generate counting sequences using Python.
+
+### Deliverable
+Counting Algorithms Notebook
+
+---
+
+## Session 30 (S30)
+
+### Topic
+Graph Theory: Graphs, Trees, Connectivity, Cycles, Knowledge Graphs
+
+### Concepts Covered
+- Introduction to Graph Theory
+- Graph Terminology
+- Directed and Undirected Graphs
+- Weighted Graphs
+- Trees and Spanning Trees
+- Graph Connectivity
+- Cycles in Graphs
+- Graph Traversal (BFS and DFS)
+- Knowledge Graphs
+- NetworkX Library for Python
+
+### Pre-Class Activity
+Install the NetworkX library and review basic graph terminology.
+
+### In-Class Activity
+- Build graphs using NetworkX.
+- Analyze graph properties.
+- Perform BFS and DFS traversals.
+- Detect connectivity and cycles.
+- Model a simple knowledge graph.
+
+### Deliverable
+Project Stage 5 – Combinatorics & Graph Theory Notebook Completed
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 10, students will be able to:
+
+1. Apply counting principles using permutations, combinations, and multinomial coefficients.
+2. Solve combinatorial problems using Python.
+3. Apply the Pigeonhole Principle and Inclusion-Exclusion Principle.
+4. Implement generating functions for counting problems.
+5. Model and analyze graphs using NetworkX.
+6. Perform graph traversal using BFS and DFS algorithms.
+7. Analyze graph connectivity, trees, and cycles.
+8. Complete Project Stage 5 by integrating combinatorics and graph theory concepts into Python applications.
+
+---
+
+## Weekly Deliverables
+
+- Combinatorics Notebook
+- Permutations and Combinations Programs
+- Counting Algorithms Notebook
+- Pigeonhole Principle Programs
+- Inclusion-Exclusion Implementation
+- Graph Theory Notebook
+- NetworkX Graph Analysis Programs
+- Project Stage 5 – Combinatorics & Graph Theory Notebook Completed
