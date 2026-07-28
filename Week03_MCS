@@ -1,0 +1,123 @@
+# Week 03 – Discrete Mathematics & Linear Algebra
+
+## Course Outcome
+**CO1:** Apply discrete mathematics and logical reasoning concepts using Python.
+
+---
+
+## Session 7 (S7)
+
+### Topic
+Boolean Algebra and Digital Circuits
+
+### Concepts Covered
+- Boolean Variables
+- Boolean Expressions
+- Boolean Laws
+- De Morgan's Laws
+- Logic Gates (AND, OR, NOT)
+- NAND, NOR, XOR, XNOR Gates
+- Truth Tables for Logic Gates
+- Simplification of Boolean Expressions
+- Introduction to Digital Circuits
+
+### Pre-Class Activity
+Review basic logical operators and truth tables.
+
+### In-Class Activity
+- Design Boolean expressions.
+- Implement logic gates using Python.
+- Verify Boolean identities.
+- Simplify Boolean expressions using Boolean algebra laws.
+
+### Deliverable
+Boolean Algebra Module
+
+---
+
+## Session 8 (S8)
+
+### Topic
+Proof Techniques (Direct, Contradiction, Mathematical Induction)
+
+### Concepts Covered
+- Introduction to Mathematical Proofs
+- Direct Proof
+- Proof by Contradiction
+- Proof by Contrapositive
+- Mathematical Induction
+- Base Case
+- Induction Hypothesis
+- Induction Step
+- Applications of Proof Techniques
+
+### Pre-Class Activity
+Read examples of direct proof and mathematical induction.
+
+### In-Class Activity
+- Solve mathematical proof problems.
+- Prove logical statements using different proof techniques.
+- Apply induction to recursive sequences.
+- Compare proof methods for various problems.
+
+### Deliverable
+Project Stage 1 Completed – Logic Notebook
+
+---
+
+## Session 9 (S9)
+
+### Topic
+Vectors and Vector Operations
+
+### Concepts Covered
+- Scalars and Vectors
+- Vector Representation
+- Vector Addition
+- Vector Subtraction
+- Scalar Multiplication
+- Dot Product
+- Vector Magnitude
+- Unit Vectors
+- Vector Applications in Machine Learning
+- NumPy Vector Operations
+
+### Pre-Class Activity
+Install NumPy and review basic array operations.
+
+### In-Class Activity
+- Implement vector operations using NumPy.
+- Perform vector addition and subtraction.
+- Calculate dot products and vector magnitudes.
+- Visualize vectors using Python.
+
+### Deliverable
+Linear Algebra Notebook
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 3, students will be able to:
+
+1. Apply Boolean algebra laws to simplify logical expressions.
+2. Design and verify digital logic circuits.
+3. Implement logic gates using Python.
+4. Solve mathematical proofs using direct, contradiction, and induction methods.
+5. Explain the importance of proof techniques in mathematics and computer science.
+6. Perform vector operations using NumPy.
+7. Compute dot products, magnitudes, and unit vectors.
+8. Apply vector concepts to machine learning problems.
+
+---
+
+## Weekly Deliverables
+
+- Boolean Algebra Module
+- Logic Gate Programs
+- Boolean Expression Simplification Programs
+- Project Stage 1 – Logic Notebook
+- Mathematical Proof Solutions
+- Linear Algebra Notebook
+- NumPy Vector Operations Programs
+- Vector Visualization Exercises
