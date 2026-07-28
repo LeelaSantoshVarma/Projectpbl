@@ -1,0 +1,121 @@
+# Week 11 – Numerical Methods for Machine Learning
+
+## Course Outcome
+**CO6:** Apply numerical methods to solve mathematical problems and perform scientific computing using Python.
+
+---
+
+## Session 31 (S31)
+
+### Topic
+Floating-Point Arithmetic and Numerical Errors
+
+### Concepts Covered
+- Introduction to Floating-Point Representation
+- IEEE 754 Floating-Point Standard
+- Precision and Accuracy
+- Rounding Errors
+- Truncation Errors
+- Absolute Error
+- Relative Error
+- Error Propagation
+- Numerical Stability
+- Floating-Point Operations in Python
+
+### Pre-Class Activity
+Review binary number representation and basic arithmetic operations.
+
+### In-Class Activity
+- Analyze floating-point precision using Python.
+- Compare exact and approximate numerical values.
+- Demonstrate rounding and truncation errors.
+- Investigate error propagation in computations.
+
+### Deliverable
+Numerical Methods Notebook
+
+---
+
+## Session 32 (S32)
+
+### Topic
+Root Finding: Bisection, Newton-Raphson, and Secant Methods
+
+### Concepts Covered
+- Introduction to Root Finding
+- Bisection Method
+- Newton-Raphson Method
+- Secant Method
+- Convergence Criteria
+- Error Estimation
+- Comparison of Root-Finding Methods
+- SciPy Optimization Functions
+
+### Pre-Class Activity
+Review functions, derivatives, and graphical interpretation of roots.
+
+### In-Class Activity
+- Implement Bisection, Newton-Raphson, and Secant methods.
+- Compare convergence rates.
+- Solve nonlinear equations using Python.
+- Validate numerical solutions using SciPy.
+
+### Deliverable
+Root-Finding Module
+
+---
+
+## Session 33 (S33)
+
+### Topic
+Euler Method, Runge-Kutta, LU & QR Decomposition
+
+### Concepts Covered
+- Ordinary Differential Equations (ODEs)
+- Euler Method
+- Runge-Kutta Method (RK4)
+- Numerical Solution of ODEs
+- LU Decomposition
+- QR Decomposition
+- Matrix Factorization using SciPy
+- Applications in Machine Learning and Scientific Computing
+
+### Pre-Class Activity
+Install SciPy and review matrix operations and differential equations.
+
+### In-Class Activity
+- Solve ordinary differential equations using Euler and Runge-Kutta methods.
+- Perform LU and QR matrix decomposition using SciPy.
+- Compare numerical solution methods.
+- Analyze computational accuracy and efficiency.
+
+### Deliverable
+Numerical Computation Notebook
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 11, students will be able to:
+
+1. Explain floating-point representation and numerical errors.
+2. Analyze precision, rounding, and truncation errors in computations.
+3. Implement numerical root-finding algorithms using Python.
+4. Compare the performance of Bisection, Newton-Raphson, and Secant methods.
+5. Solve ordinary differential equations using Euler and Runge-Kutta methods.
+6. Perform LU and QR matrix decompositions using SciPy.
+7. Evaluate the accuracy and efficiency of numerical algorithms.
+8. Apply numerical methods to scientific computing and machine learning problems.
+
+---
+
+## Weekly Deliverables
+
+- Numerical Methods Notebook
+- Floating-Point Error Analysis Programs
+- Root-Finding Module
+- Bisection, Newton-Raphson, and Secant Method Programs
+- Numerical Computation Notebook
+- Euler Method Implementation
+- Runge-Kutta Solver
+- LU and QR Decomposition Programs
