@@ -1,0 +1,120 @@
+# Week 09 – Probability and Statistics for Machine Learning
+
+## Course Outcome
+**CO4:** Apply probability theory and statistical concepts to analyze data, perform statistical inference, and support machine learning applications using Python.
+
+---
+
+## Session 25 (S25)
+
+### Topic
+Expectation, Variance, and Standard Deviation
+
+### Concepts Covered
+- Random Variables
+- Expected Value (Expectation)
+- Mean of a Distribution
+- Variance
+- Standard Deviation
+- Moments of a Distribution
+- Statistical Measures using NumPy
+- Applications in Data Analysis
+
+### Pre-Class Activity
+Review probability distributions and random variables.
+
+### In-Class Activity
+- Compute expectation, variance, and standard deviation using NumPy.
+- Analyze statistical properties of datasets.
+- Compare variability among different datasets.
+- Interpret statistical measures graphically.
+
+### Deliverable
+Statistical Analysis Notebook
+
+---
+
+## Session 26 (S26)
+
+### Topic
+Joint, Marginal, and Conditional Distributions
+
+### Concepts Covered
+- Joint Probability Distribution
+- Marginal Probability Distribution
+- Conditional Probability Distribution
+- Independence of Random Variables
+- Joint Probability Tables
+- Multidimensional Probability
+- Covariance (Introduction)
+- Applications in Machine Learning
+
+### Pre-Class Activity
+Review conditional probability and Bayes' Theorem.
+
+### In-Class Activity
+- Analyze multidimensional probability data.
+- Compute joint, marginal, and conditional distributions.
+- Visualize probability distributions using Python.
+- Interpret relationships between random variables.
+
+### Deliverable
+Joint Distribution Analysis
+
+---
+
+## Session 27 (S27)
+
+### Topic
+Central Limit Theorem, Hypothesis Testing, and p-values
+
+### Concepts Covered
+- Central Limit Theorem (CLT)
+- Sampling Distribution
+- Population vs Sample
+- Null and Alternative Hypotheses
+- Significance Level (α)
+- p-values
+- Type I and Type II Errors
+- One-Sample Hypothesis Testing
+- Applications in Machine Learning
+
+### Pre-Class Activity
+Review expectation, variance, and probability distributions.
+
+### In-Class Activity
+- Simulate the Central Limit Theorem using Python.
+- Perform hypothesis testing on sample datasets.
+- Compute and interpret p-values.
+- Draw conclusions based on statistical evidence.
+
+### Deliverable
+Project Stage 4 – Probability Notebook Completed
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 9, students will be able to:
+
+1. Compute expectation, variance, and standard deviation using NumPy.
+2. Interpret statistical measures for data analysis.
+3. Analyze joint, marginal, and conditional probability distributions.
+4. Explain relationships between multiple random variables.
+5. Demonstrate the Central Limit Theorem through simulation.
+6. Perform hypothesis testing using Python.
+7. Interpret p-values and significance levels correctly.
+8. Complete Project Stage 4 by applying probability and statistical concepts to practical datasets.
+
+---
+
+## Weekly Deliverables
+
+- Statistical Analysis Notebook
+- Expectation and Variance Programs
+- Joint Distribution Analysis
+- Conditional Probability Analysis
+- Central Limit Theorem Simulation
+- Hypothesis Testing Notebook
+- p-value Calculation Programs
+- Project Stage 4 – Probability Notebook
