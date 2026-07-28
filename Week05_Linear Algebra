@@ -1,0 +1,120 @@
+# Week 05 – Linear Algebra for Machine Learning
+
+## Course Outcome
+**CO2:** Apply linear algebra concepts to solve mathematical problems and implement machine learning computations using Python.
+
+---
+
+## Session 13 (S13)
+
+### Topic
+Eigenvalues and Eigenvectors
+
+### Concepts Covered
+- Introduction to Eigenvalues
+- Introduction to Eigenvectors
+- Characteristic Equation
+- Characteristic Polynomial
+- Eigenvalue Decomposition
+- Properties of Eigenvalues and Eigenvectors
+- Applications in Machine Learning
+- NumPy Eigenvalue Functions (`numpy.linalg.eig`)
+
+### Pre-Class Activity
+Review matrix operations, determinants, and matrix inverses.
+
+### In-Class Activity
+- Compute eigenvalues and eigenvectors using NumPy.
+- Verify the equation **Ax = λx**.
+- Interpret eigenvectors graphically.
+- Explore applications in Principal Component Analysis (PCA).
+
+### Deliverable
+Eigen Analysis Notebook
+
+---
+
+## Session 14 (S14)
+
+### Topic
+Linear Transformations: Rotation, Scaling, Projection
+
+### Concepts Covered
+- Linear Transformations
+- Transformation Matrices
+- Rotation Matrix
+- Scaling Matrix
+- Reflection Matrix
+- Shearing Transformation
+- Orthogonal Projection
+- Visualization of Transformations
+- Applications in Computer Graphics and Machine Learning
+
+### Pre-Class Activity
+Review vectors, matrices, and coordinate systems.
+
+### In-Class Activity
+- Visualize rotation and scaling transformations.
+- Perform projection of vectors onto subspaces.
+- Implement transformation matrices using NumPy.
+- Plot transformed vectors using Matplotlib.
+
+### Deliverable
+Transformation Visualization
+
+---
+
+## Session 15 (S15)
+
+### Topic
+Singular Value Decomposition (SVD) and Machine Learning Applications
+
+### Concepts Covered
+- Introduction to Singular Value Decomposition (SVD)
+- Components of SVD (U, Σ, Vᵀ)
+- Matrix Factorization
+- Rank Approximation
+- Dimensionality Reduction
+- Image Compression using SVD
+- Applications in Recommendation Systems
+- Applications in Machine Learning
+
+### Pre-Class Activity
+Read about matrix decomposition techniques and image representation.
+
+### In-Class Activity
+- Perform SVD using NumPy.
+- Compress an image using SVD.
+- Compare original and reconstructed images.
+- Analyze the effect of different singular values.
+
+### Deliverable
+Project Stage 2 – Linear Algebra Notebook Completed
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 5, students will be able to:
+
+1. Compute eigenvalues and eigenvectors using NumPy.
+2. Explain the significance of eigenvalues in machine learning.
+3. Apply linear transformations such as rotation, scaling, and projection.
+4. Visualize vector and matrix transformations using Python.
+5. Perform Singular Value Decomposition (SVD).
+6. Apply SVD for image compression and dimensionality reduction.
+7. Understand the role of SVD in recommendation systems and machine learning.
+8. Complete Project Stage 2 by integrating linear algebra concepts into practical applications.
+
+---
+
+## Weekly Deliverables
+
+- Eigen Analysis Notebook
+- Eigenvalue and Eigenvector Programs
+- Transformation Visualization
+- Rotation and Scaling Programs
+- Projection Demonstration
+- SVD Implementation Notebook
+- Image Compression using SVD
+- Project Stage 2 – Linear Algebra Notebook
