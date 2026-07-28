@@ -1,0 +1,124 @@
+# Week 08 – Probability and Statistics for Machine Learning
+
+## Course Outcome
+**CO4:** Apply probability theory and statistical concepts to model uncertainty and analyze data using Python.
+
+---
+
+## Session 22 (S22)
+
+### Topic
+Sample Space, Events, and Probability Axioms
+
+### Concepts Covered
+- Introduction to Probability
+- Random Experiments
+- Sample Space
+- Events
+- Types of Events
+- Probability Axioms
+- Addition Rule of Probability
+- Complement Rule
+- Experimental vs Theoretical Probability
+- Probability Simulation using Python
+
+### Pre-Class Activity
+Review basic set theory and event representation.
+
+### In-Class Activity
+- Simulate probability experiments using Python.
+- Calculate probabilities of simple events.
+- Verify probability axioms through simulations.
+- Visualize probability outcomes using charts.
+
+### Deliverable
+Probability Notebook Initialized
+
+---
+
+## Session 23 (S23)
+
+### Topic
+Conditional Probability and Bayes' Theorem
+
+### Concepts Covered
+- Conditional Probability
+- Independent and Dependent Events
+- Multiplication Rule
+- Bayes' Theorem
+- Prior Probability
+- Posterior Probability
+- Likelihood
+- Applications of Bayes' Theorem in Machine Learning
+- Python Implementation of Bayesian Probability
+
+### Pre-Class Activity
+Review probability rules and event relationships.
+
+### In-Class Activity
+- Implement Bayes' Theorem using Python.
+- Solve conditional probability problems.
+- Compute posterior probabilities.
+- Analyze real-world classification examples.
+
+### Deliverable
+Bayesian Probability Notebook
+
+---
+
+## Session 24 (S24)
+
+### Topic
+Random Variables and Probability Distributions
+
+### Concepts Covered
+- Random Variables
+- Discrete and Continuous Random Variables
+- Bernoulli Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Uniform Distribution
+- Normal Distribution
+- Probability Density Function (PDF)
+- Probability Mass Function (PMF)
+- Distribution Simulation using NumPy and SciPy
+
+### Pre-Class Activity
+Review probability concepts and random variables.
+
+### In-Class Activity
+- Simulate Bernoulli, Binomial, Poisson, Uniform, and Normal distributions.
+- Plot probability distributions using Python.
+- Compare different probability distributions.
+- Analyze practical machine learning examples.
+
+### Deliverable
+Distribution Simulator
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 8, students will be able to:
+
+1. Explain sample spaces, events, and probability axioms.
+2. Simulate probability experiments using Python.
+3. Compute conditional probabilities for real-world scenarios.
+4. Apply Bayes' Theorem to probabilistic reasoning problems.
+5. Distinguish between discrete and continuous random variables.
+6. Simulate common probability distributions using Python.
+7. Visualize probability distributions using graphs.
+8. Apply probability concepts to machine learning and data analysis.
+
+---
+
+## Weekly Deliverables
+
+- Probability Notebook
+- Probability Simulation Programs
+- Bayesian Probability Notebook
+- Bayes' Theorem Implementation
+- Distribution Simulator
+- Bernoulli Distribution Program
+- Binomial, Poisson, Uniform, and Normal Distribution Programs
+- Probability Visualization Exercises
