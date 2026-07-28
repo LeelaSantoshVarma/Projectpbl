@@ -1,0 +1,119 @@
+# Week 07 – Calculus for Machine Learning
+
+## Course Outcome
+**CO3:** Apply calculus concepts to analyze functions, compute derivatives, and optimize machine learning models using Python.
+
+---
+
+## Session 19 (S19)
+
+### Topic
+Geometric Meaning of Gradient
+
+### Concepts Covered
+- Gradient Vector
+- Direction of Steepest Ascent
+- Magnitude of Gradient
+- Level Curves
+- Contour Plots
+- Gradient Fields
+- Surface Visualization
+- Applications in Optimization
+
+### Pre-Class Activity
+Review partial derivatives and gradient computation.
+
+### In-Class Activity
+- Visualize gradient vectors using Python.
+- Generate contour plots of multivariable functions.
+- Interpret the direction and magnitude of gradients.
+- Analyze optimization paths on contour plots.
+
+### Deliverable
+Gradient Visualization
+
+---
+
+## Session 20 (S20)
+
+### Topic
+Gradient Descent Algorithm
+
+### Concepts Covered
+- Introduction to Gradient Descent
+- Cost Function
+- Learning Rate
+- Parameter Updates
+- Batch Gradient Descent
+- Convergence Criteria
+- Linear Regression Optimization
+- Implementation using NumPy
+
+### Pre-Class Activity
+Review derivatives, gradients, and linear regression concepts.
+
+### In-Class Activity
+- Implement Gradient Descent for Linear Regression.
+- Visualize the optimization process.
+- Experiment with different learning rates.
+- Analyze convergence behavior.
+
+### Deliverable
+Gradient Descent Implementation
+
+---
+
+## Session 21 (S21)
+
+### Topic
+Integration, Numerical Integration (Trapezoidal & Simpson's Rule), Convex Functions
+
+### Concepts Covered
+- Introduction to Integration
+- Definite and Indefinite Integrals
+- Numerical Integration
+- Trapezoidal Rule
+- Simpson's Rule
+- Error Analysis
+- Convex and Concave Functions
+- Importance of Convexity in Machine Learning
+
+### Pre-Class Activity
+Review basic integration techniques and function plotting.
+
+### In-Class Activity
+- Compare Trapezoidal and Simpson's numerical integration methods.
+- Compute definite integrals using Python.
+- Identify convex and concave functions.
+- Visualize convex optimization examples.
+
+### Deliverable
+Project Stage 3 – Calculus Notebook Completed
+
+---
+
+## Weekly Learning Outcomes
+
+By the end of Week 7, students will be able to:
+
+1. Explain the geometric interpretation of gradients.
+2. Visualize gradient vectors and contour plots using Python.
+3. Implement the Gradient Descent algorithm for Linear Regression.
+4. Analyze the effect of learning rate on optimization.
+5. Perform numerical integration using Trapezoidal and Simpson's rules.
+6. Compare different numerical integration techniques.
+7. Identify convex functions and explain their role in optimization.
+8. Complete Project Stage 3 by integrating calculus concepts into machine learning applications.
+
+---
+
+## Weekly Deliverables
+
+- Gradient Visualization Notebook
+- Contour Plot Programs
+- Gradient Descent Implementation
+- Linear Regression Optimization Program
+- Numerical Integration Notebook
+- Trapezoidal Rule Program
+- Simpson's Rule Program
+- Project Stage 3 – Calculus Notebook
